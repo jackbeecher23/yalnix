@@ -7,7 +7,7 @@ Built by: Jack Beecher and Isaac Wells
 ## To Use
 To run and test the code, 
 
-## Directories
+## Code Structure
 Living in this directory, we have
 1. user
 2. kernel
