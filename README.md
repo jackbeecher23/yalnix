@@ -1,23 +1,31 @@
-# mutex-locked-in
-
-## Yalnix
-Within this github repo is all the code for our CS 58 Yalnix project.
+# Yalnix
+Within this github repo is all the code for our CS 58 Yalnix project. Instructions for the project can be found
+in the yalnix pdf.
 
 Built by: Jack Beecher and Isaac Wells
+
+## To Use
+To run and test the code, 
 
 ## Directories
 Living in this directory, we have
 1. user
 2. kernel
+3. test.sh
+4. Makefile
+5. yalnix.pdf
 
 ### User
-Home to our user test programs. See README.md within User for more info.
+Home to our user test programs.
 
 ### Kernel
-Home to all of our kernel code. See README.md within Kernel for more info. 
+Home to all of our kernel code.
 
-## Testing
+### Testing
 We created a nice shell file test.sh, which runs all of our basic testing programs in parallel.
+
+### Yalnix Guide
+The instructions and the decsription for this project.
 
 ## Trace Printing
 In general, we used the trace printing values as followed
