@@ -1,11 +1,30 @@
 # Yalnix
 Within this github repo is all the code for our CS 58 Yalnix project. Instructions for the project can be found
-in the yalnix pdf.
+in the [yalnix guide](yalnix.pdf).
 
 Built by: Jack Beecher and Isaac Wells
 
 ## To Use
-To run and test the code, 
+To run and test the code, you first need to set the YALNIX_FRAMEWORK
+environment variable to name the path of YALNIX_FRAMEWORK.
+
+Simply, add this line to your .bashrc or .zshrc or etc depending on your system
+```bash
+export YALNIX_FRAMEWORK="path/to/YALNIX_FRAMEWORK"
+```
+where path/to is your path to the YALNIX_FRAMEWORK in this repo.
+
+Then, depending on your type of machine, you may be able to
+```bash
+make
+``` 
+However, given the complexities of implementing this "operating system" on top of another operating system, you may have to configure
+your makefile to run yalnix.
+
+## Demo
+Instead of the hassle of configuring your machine to yalnix, here is a short demo running the test program [torture](user/torture.c)/
+
+[Yalnix Demo](yalnix-demo.mp4)
 
 ## Code Structure
 Living in this directory, we have

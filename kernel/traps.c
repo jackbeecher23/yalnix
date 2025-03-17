@@ -5,7 +5,7 @@
  * description: handle all traps down to the kernel
  */
 
-#include "ykernel.h"
+#include <ykernel.h>
 #include "structs.h"
 #include "coordination.h"
 #include "traps.h"
