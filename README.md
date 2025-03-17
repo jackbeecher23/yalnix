@@ -1,6 +1,6 @@
 # Yalnix
 Within this github repo is all the code for our CS 58 Yalnix project. Instructions for the project can be found
-in the [yalnix guide](yalnix.pdf).
+in the [yalnix guide](Yalnix.pdf).
 
 Built by: Jack Beecher and Isaac Wells
 
