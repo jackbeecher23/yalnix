@@ -22,7 +22,7 @@ However, given the complexities of implementing this "operating system" on top o
 your makefile to run yalnix.
 
 ## Demo
-Instead of the hassle of configuring your machine to yalnix, here is a short demo running the test program [torture](user/torture.c)/
+Instead of the hassle of configuring your machine to yalnix, here is a short demo running the test program [torture](user/torture.c).
 
 [Yalnix Demo](yalnix-demo.mp4)
 
